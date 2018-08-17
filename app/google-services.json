@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "681334852709",
+    "firebase_url": "https://burndolar-8a3de.firebaseio.com",
+    "project_id": "burndolar-8a3de",
+    "storage_bucket": "burndolar-8a3de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681334852709:android:1c9a937da2025f9c",
+        "android_client_info": {
+          "package_name": "com.emrehmrc.burndolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681334852709-13nlrha0m6tvvp7mfc3i89blcntg7rv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emrehmrc.burndolar",
+            "certificate_hash": "4b607285c3f585974ed6c506abc2b4e81bc4595a"
+          }
+        },
+        {
+          "client_id": "681334852709-lkqqo1gtvuag28o59d6encph9uhe8c93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4V5ZxObxdYyJKLWt8Ia0goThOZsJkl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681334852709-lkqqo1gtvuag28o59d6encph9uhe8c93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
